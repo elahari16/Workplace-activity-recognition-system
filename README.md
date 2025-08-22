@@ -69,11 +69,6 @@ By leveraging **YOLOv8, TensorFlow, and PyTorch**, the system detects and analyz
 - **Robotics & Automation:** Industrial safety & smart factories.  
 
 ---
-
-## 👨‍💻 Team
-- **Pranay K** – Data Scientist, AiSPRAY ([LinkedIn](https://www.linkedin.com/in/pranay-k-85756b102/))  
-- **Hariharan Elangovan** – Aspiring Data Scientist ([LinkedIn](https://www.linkedin.com/in/hariharan-elangovan-b0162a23b/))  
-
 ---
 
 ## 📸 Demo
@@ -86,4 +81,5 @@ By leveraging **YOLOv8, TensorFlow, and PyTorch**, the system detects and analyz
 ## 📬 Contact
 For queries or collaboration:  
 📧 elahari16@gmail.com | 🌐 [Portfolio](https://elahari16.github.io/myprofile)  
+
 
